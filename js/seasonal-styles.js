@@ -18,7 +18,7 @@ $("document").ready(function(){
                 $("html").css("background-color","#EBA52B");
                 $("#wear").attr("src","images/summer-wear.jpg");
                 $("#logo").attr("src","images/summer.gif");
-                $("header h3").text("Summer is here! Come shop the hottest swim gear for the hot weather!");
+                $("header h3").text("Summer is here! Come shop the hottest swim wear for the hot weather!");
             };
             break; 
 
